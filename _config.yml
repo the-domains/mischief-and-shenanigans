@@ -1,7 +1,7 @@
 name: Mischief and Shenanigans
 favicon: null
-layout_spectrum: 0.012730793096125126
-typography_spectrum: 0.7961365736555308
+layout_spectrum: 0.23505
+typography_spectrum: 0.60626
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.6380546956788749
-  lightness: 0.2413642257452011
-  saturation: 0.6136036838870496
-  rhythmicContrast: 0.41088823322206736
+    - '#ffffff'
+    - '#2d2d2b'
+    - '#c3d3c6'
+    - '#5f5e5c'
+    - '#a09f9b'
+  brandStrength: 0.5625
+  lightness: 0.625
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
